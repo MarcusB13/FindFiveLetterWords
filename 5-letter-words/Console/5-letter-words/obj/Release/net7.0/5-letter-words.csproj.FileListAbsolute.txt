@@ -1,0 +1,13 @@
+/Users/marcusbager/Desktop/Skole Privat/skole/Hf2/ObjProgrammering/5-letter-words/5-letter-words/bin/Release/net7.0/5-letter-words
+/Users/marcusbager/Desktop/Skole Privat/skole/Hf2/ObjProgrammering/5-letter-words/5-letter-words/bin/Release/net7.0/5-letter-words.deps.json
+/Users/marcusbager/Desktop/Skole Privat/skole/Hf2/ObjProgrammering/5-letter-words/5-letter-words/bin/Release/net7.0/5-letter-words.runtimeconfig.json
+/Users/marcusbager/Desktop/Skole Privat/skole/Hf2/ObjProgrammering/5-letter-words/5-letter-words/bin/Release/net7.0/5-letter-words.dll
+/Users/marcusbager/Desktop/Skole Privat/skole/Hf2/ObjProgrammering/5-letter-words/5-letter-words/obj/Release/net7.0/5-letter-words.csproj.AssemblyReference.cache
+/Users/marcusbager/Desktop/Skole Privat/skole/Hf2/ObjProgrammering/5-letter-words/5-letter-words/obj/Release/net7.0/5-letter-words.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcusbager/Desktop/Skole Privat/skole/Hf2/ObjProgrammering/5-letter-words/5-letter-words/obj/Release/net7.0/5-letter-words.AssemblyInfoInputs.cache
+/Users/marcusbager/Desktop/Skole Privat/skole/Hf2/ObjProgrammering/5-letter-words/5-letter-words/obj/Release/net7.0/5-letter-words.AssemblyInfo.cs
+/Users/marcusbager/Desktop/Skole Privat/skole/Hf2/ObjProgrammering/5-letter-words/5-letter-words/obj/Release/net7.0/5-letter-words.csproj.CoreCompileInputs.cache
+/Users/marcusbager/Desktop/Skole Privat/skole/Hf2/ObjProgrammering/5-letter-words/5-letter-words/obj/Release/net7.0/5-letter-words.dll
+/Users/marcusbager/Desktop/Skole Privat/skole/Hf2/ObjProgrammering/5-letter-words/5-letter-words/obj/Release/net7.0/refint/5-letter-words.dll
+/Users/marcusbager/Desktop/Skole Privat/skole/Hf2/ObjProgrammering/5-letter-words/5-letter-words/obj/Release/net7.0/5-letter-words.genruntimeconfig.cache
+/Users/marcusbager/Desktop/Skole Privat/skole/Hf2/ObjProgrammering/5-letter-words/5-letter-words/obj/Release/net7.0/ref/5-letter-words.dll

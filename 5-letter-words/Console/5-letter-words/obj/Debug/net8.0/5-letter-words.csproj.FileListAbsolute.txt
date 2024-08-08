@@ -1,0 +1,14 @@
+D:\5-letter-words\5-letter-words\bin\Debug\net8.0\5-letter-words.exe
+D:\5-letter-words\5-letter-words\bin\Debug\net8.0\5-letter-words.deps.json
+D:\5-letter-words\5-letter-words\bin\Debug\net8.0\5-letter-words.runtimeconfig.json
+D:\5-letter-words\5-letter-words\bin\Debug\net8.0\5-letter-words.dll
+D:\5-letter-words\5-letter-words\bin\Debug\net8.0\5-letter-words.pdb
+D:\5-letter-words\5-letter-words\obj\Debug\net8.0\5-letter-words.GeneratedMSBuildEditorConfig.editorconfig
+D:\5-letter-words\5-letter-words\obj\Debug\net8.0\5-letter-words.AssemblyInfoInputs.cache
+D:\5-letter-words\5-letter-words\obj\Debug\net8.0\5-letter-words.AssemblyInfo.cs
+D:\5-letter-words\5-letter-words\obj\Debug\net8.0\5-letter-words.csproj.CoreCompileInputs.cache
+D:\5-letter-words\5-letter-words\obj\Debug\net8.0\5-letter-words.dll
+D:\5-letter-words\5-letter-words\obj\Debug\net8.0\refint\5-letter-words.dll
+D:\5-letter-words\5-letter-words\obj\Debug\net8.0\5-letter-words.pdb
+D:\5-letter-words\5-letter-words\obj\Debug\net8.0\5-letter-words.genruntimeconfig.cache
+D:\5-letter-words\5-letter-words\obj\Debug\net8.0\ref\5-letter-words.dll
