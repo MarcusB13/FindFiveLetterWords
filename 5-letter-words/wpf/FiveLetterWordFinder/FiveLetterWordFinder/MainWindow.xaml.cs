@@ -32,7 +32,7 @@ namespace FiveLetterWordFinder
             timerLabel.Content = "";
 
             finder = new FiveLetterWordCLass(
-                "D:\\5-letter-words\\5-letter-words\\bin\\Release\\net8.0\\perfect-words-big.txt",
+                file.Text,
                 int.Parse(amount_of_words.Text),
                 int.Parse(amount_of_letters.Text)
             );

@@ -1,18 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\HFGF\\source\\repos\\FiveLetterWordFinder\\",
+  "WorkspaceRootPath": "C:\\Users\\HFGF\\source\\repos\\FiveLetterWordFinder\\5-letter-words\\wpf\\FiveLetterWordFinder\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1709D401-051C-48C4-ABB1-25040EB7D726}|FiveLetterWordFinder\\FiveLetterWordFinder.csproj|c:\\users\\hfgf\\source\\repos\\fiveletterwordfinder\\fiveletterwordfinder\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1709D401-051C-48C4-ABB1-25040EB7D726}|FiveLetterWordFinder\\FiveLetterWordFinder.csproj|c:\\users\\hfgf\\source\\repos\\fiveletterwordfinder\\5-letter-words\\wpf\\fiveletterwordfinder\\fiveletterwordfinder\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1709D401-051C-48C4-ABB1-25040EB7D726}|FiveLetterWordFinder\\FiveLetterWordFinder.csproj|solutionrelative:fiveletterwordfinder\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1709D401-051C-48C4-ABB1-25040EB7D726}|FiveLetterWordFinder\\FiveLetterWordFinder.csproj|c:\\users\\hfgf\\source\\repos\\fiveletterwordfinder\\fiveletterwordfinder\\fiveletterwordclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1709D401-051C-48C4-ABB1-25040EB7D726}|FiveLetterWordFinder\\FiveLetterWordFinder.csproj|c:\\users\\hfgf\\source\\repos\\fiveletterwordfinder\\5-letter-words\\wpf\\fiveletterwordfinder\\fiveletterwordfinder\\fiveletterwordclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1709D401-051C-48C4-ABB1-25040EB7D726}|FiveLetterWordFinder\\FiveLetterWordFinder.csproj|solutionrelative:fiveletterwordfinder\\fiveletterwordclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1709D401-051C-48C4-ABB1-25040EB7D726}|FiveLetterWordFinder\\FiveLetterWordFinder.csproj|c:\\users\\hfgf\\source\\repos\\fiveletterwordfinder\\fiveletterwordfinder\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{1709D401-051C-48C4-ABB1-25040EB7D726}|FiveLetterWordFinder\\FiveLetterWordFinder.csproj|c:\\users\\hfgf\\source\\repos\\fiveletterwordfinder\\5-letter-words\\wpf\\fiveletterwordfinder\\fiveletterwordfinder\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{1709D401-051C-48C4-ABB1-25040EB7D726}|FiveLetterWordFinder\\FiveLetterWordFinder.csproj|solutionrelative:fiveletterwordfinder\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1709D401-051C-48C4-ABB1-25040EB7D726}|FiveLetterWordFinder\\FiveLetterWordFinder.csproj|c:\\users\\hfgf\\source\\repos\\fiveletterwordfinder\\5-letter-words\\wpf\\fiveletterwordfinder\\fiveletterwordfinder\\fiveletterwordfinder.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1709D401-051C-48C4-ABB1-25040EB7D726}|FiveLetterWordFinder\\FiveLetterWordFinder.csproj|solutionrelative:fiveletterwordfinder\\fiveletterwordfinder.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,15 +26,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FiveLetterWordFinder",
+              "DocumentMoniker": "C:\\Users\\HFGF\\source\\repos\\FiveLetterWordFinder\\5-letter-words\\wpf\\FiveLetterWordFinder\\FiveLetterWordFinder\\FiveLetterWordFinder.csproj",
+              "RelativeDocumentMoniker": "FiveLetterWordFinder\\FiveLetterWordFinder.csproj",
+              "ToolTip": "C:\\Users\\HFGF\\source\\repos\\FiveLetterWordFinder\\5-letter-words\\wpf\\FiveLetterWordFinder\\FiveLetterWordFinder\\FiveLetterWordFinder.csproj",
+              "RelativeToolTip": "FiveLetterWordFinder\\FiveLetterWordFinder.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-12T06:54:46.118Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\HFGF\\source\\repos\\FiveLetterWordFinder\\FiveLetterWordFinder\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\HFGF\\source\\repos\\FiveLetterWordFinder\\5-letter-words\\wpf\\FiveLetterWordFinder\\FiveLetterWordFinder\\MainWindow.xaml",
               "RelativeDocumentMoniker": "FiveLetterWordFinder\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\HFGF\\source\\repos\\FiveLetterWordFinder\\FiveLetterWordFinder\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\HFGF\\source\\repos\\FiveLetterWordFinder\\5-letter-words\\wpf\\FiveLetterWordFinder\\FiveLetterWordFinder\\MainWindow.xaml",
               "RelativeToolTip": "FiveLetterWordFinder\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-08-08T09:57:17.312Z",
@@ -40,11 +57,11 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "FiveLetterWordCLass.cs",
-              "DocumentMoniker": "C:\\Users\\HFGF\\source\\repos\\FiveLetterWordFinder\\FiveLetterWordFinder\\FiveLetterWordCLass.cs",
+              "DocumentMoniker": "C:\\Users\\HFGF\\source\\repos\\FiveLetterWordFinder\\5-letter-words\\wpf\\FiveLetterWordFinder\\FiveLetterWordFinder\\FiveLetterWordCLass.cs",
               "RelativeDocumentMoniker": "FiveLetterWordFinder\\FiveLetterWordCLass.cs",
-              "ToolTip": "C:\\Users\\HFGF\\source\\repos\\FiveLetterWordFinder\\FiveLetterWordFinder\\FiveLetterWordCLass.cs",
+              "ToolTip": "C:\\Users\\HFGF\\source\\repos\\FiveLetterWordFinder\\5-letter-words\\wpf\\FiveLetterWordFinder\\FiveLetterWordFinder\\FiveLetterWordCLass.cs",
               "RelativeToolTip": "FiveLetterWordFinder\\FiveLetterWordCLass.cs",
-              "ViewState": "AQIAAEkAAAAAAAAAAAAWwH8AAAANAAAA",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAWwFAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-08T08:54:30.819Z",
               "EditorCaption": ""
@@ -53,11 +70,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\HFGF\\source\\repos\\FiveLetterWordFinder\\FiveLetterWordFinder\\MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\HFGF\\source\\repos\\FiveLetterWordFinder\\5-letter-words\\wpf\\FiveLetterWordFinder\\FiveLetterWordFinder\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "FiveLetterWordFinder\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\HFGF\\source\\repos\\FiveLetterWordFinder\\FiveLetterWordFinder\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\HFGF\\source\\repos\\FiveLetterWordFinder\\5-letter-words\\wpf\\FiveLetterWordFinder\\FiveLetterWordFinder\\MainWindow.xaml.cs",
               "RelativeToolTip": "FiveLetterWordFinder\\MainWindow.xaml.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAqwBMAAAArAAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAqwB4AAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-08T08:36:54.603Z",
               "EditorCaption": ""
