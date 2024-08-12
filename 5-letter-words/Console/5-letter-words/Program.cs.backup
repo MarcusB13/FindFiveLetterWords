@@ -2,7 +2,7 @@ using System.Runtime.CompilerServices;
 
 int count = 0;
 int wordLength = 5;
-int maxCombinationLength = 25;
+int maxWords = 5;
 string fileName = "perfect-words-big.txt";
 
 Dictionary<char, int> letterFrequency = new Dictionary<char, int> ();
@@ -20,11 +20,6 @@ int GetBitMask(string word)
         bitMask |= 1 << (c - 'a');
     }
     return bitMask;
-}
-
-string GetStringFromBitMask(int index, string[] words)
-{
-    return words[index];
 }
 
 [MethodImpl(MethodImplOptions.AggressiveInlining)]
@@ -77,37 +72,33 @@ letterFrequency = letterFrequency.OrderBy(x => x.Value).ToDictionary(x => x.Key,
 allWordsIncludingNotFiveLetters = allWordsIncludingNotFiveLetters.OrderBy(word => GetStringValue(word)).ToArray();
 
 
-List<int> listAllWords = new List<int> {};
-for (int wordIndex = 0; wordIndex < allWordsIncludingNotFiveLetters.Length; wordIndex++)
-{   
-    string word = allWordsIncludingNotFiveLetters[wordIndex];
-    listAllWords.Add(GetBitMask(word));
-}
-int[] allWords = listAllWords.ToArray();
-Console.WriteLine($"Total words: {allWords.Length}");
+int[] allWords = new int[allWordsIncludingNotFiveLetters.Length];
+Parallel.For(0, allWordsIncludingNotFiveLetters.Length, i =>
+{
+    allWords[i] = GetBitMask(allWordsIncludingNotFiveLetters[i]);
+});
 
+int allWordsLength = allWords.Length;
+Console.WriteLine($"Total words: {allWordsLength}");
 
 [MethodImpl(MethodImplOptions.AggressiveInlining)]
-void Find5Words(int bitmask, int iterator, int[] currentCombination){
-    if (currentCombination.Length == 5)
+void Find5Words(int bitmask, int iterator, int[] currentCombination, int depth){
+    currentCombination[depth] = iterator;
+
+    if (depth == maxWords -1)
     {
         count++;
-        string combination = "";
-        foreach (int wordIndex in currentCombination)
-        {
-            combination += allWordsIncludingNotFiveLetters[wordIndex] + " ";
-        }
-        Console.WriteLine(combination + "\n\n");
+        string combination = String.Join(" ", currentCombination.Select(i => allWordsIncludingNotFiveLetters[i]));
+        Console.WriteLine(combination);
         return;
     }
 
-    for (int wordIterator = iterator; wordIterator < allWords.Length; wordIterator++)
+    for (int wordIterator = iterator; wordIterator < allWordsLength; wordIterator++)
     {
         int word = allWords[wordIterator];
         if ((word & bitmask) == 0)
         {
-            Find5Words(bitmask | word, wordIterator,
-                currentCombination.Append(wordIterator).ToArray());
+            Find5Words(bitmask | word, wordIterator, currentCombination, depth + 1);
         }
     }
 }
@@ -115,13 +106,27 @@ void Find5Words(int bitmask, int iterator, int[] currentCombination){
 int[] firstWords = allWords.Take(
     letterFrequency.Values.ElementAt(0) + letterFrequency.Values.ElementAt(1)).ToArray();
 
-Parallel.For(0, firstWords.Length, i => {
-    Find5Words(firstWords[i], i + 1, new int[] {i});
-});
+List<Task> tasks = new List<Task>();
+for (int i = 0; i < firstWords.Length; i++)
+{   
+    int index = i;
+    tasks.Add(Task.Run(() => Find5Words(firstWords[index], index, new int[maxWords], 0 )));
+}
+
+// var watch2 = new System.Diagnostics.Stopwatch();
+// watch2.Start();
+// watch2.Stop();
+// Console.WriteLine("Time {0} Ticks; {1} ms, {2} seconds", watch2.ElapsedTicks, watch2.ElapsedMilliseconds, Decimal.Divide(watch2.ElapsedMilliseconds, 1000));
+
+Task.WaitAll(tasks.ToArray());
 
 // Stop timer
+// var watch = new System.Diagnostics.Stopwatch();
+// watch.Start();
 watch.Stop();
-
 Console.WriteLine("Time {0} Ticks; {1} ms, {2} seconds", watch.ElapsedTicks, watch.ElapsedMilliseconds, Decimal.Divide(watch.ElapsedMilliseconds, 1000));
+
+
+
 
 Console.WriteLine($"Total combinations: {count}");

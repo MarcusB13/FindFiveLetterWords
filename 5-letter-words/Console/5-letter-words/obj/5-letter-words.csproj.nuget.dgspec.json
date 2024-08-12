@@ -1,32 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "D:\\5-letter-words\\5-letter-words\\5-letter-words.csproj": {}
+    "/Users/marcusbager/Desktop/Skole Privat/skole/Hf2/ObjProgrammering/5-letter-words/5-letter-words/Console/5-letter-words/5-letter-words.csproj": {}
   },
   "projects": {
-    "D:\\5-letter-words\\5-letter-words\\5-letter-words.csproj": {
+    "/Users/marcusbager/Desktop/Skole Privat/skole/Hf2/ObjProgrammering/5-letter-words/5-letter-words/Console/5-letter-words/5-letter-words.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\5-letter-words\\5-letter-words\\5-letter-words.csproj",
+        "projectUniqueName": "/Users/marcusbager/Desktop/Skole Privat/skole/Hf2/ObjProgrammering/5-letter-words/5-letter-words/Console/5-letter-words/5-letter-words.csproj",
         "projectName": "5-letter-words",
-        "projectPath": "D:\\5-letter-words\\5-letter-words\\5-letter-words.csproj",
-        "packagesPath": "C:\\Users\\HFGF\\.nuget\\packages\\",
-        "outputPath": "D:\\5-letter-words\\5-letter-words\\obj\\",
+        "projectPath": "/Users/marcusbager/Desktop/Skole Privat/skole/Hf2/ObjProgrammering/5-letter-words/5-letter-words/Console/5-letter-words/5-letter-words.csproj",
+        "packagesPath": "/Users/marcusbager/.nuget/packages/",
+        "outputPath": "/Users/marcusbager/Desktop/Skole Privat/skole/Hf2/ObjProgrammering/5-letter-words/5-letter-words/Console/5-letter-words/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\HFGF\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/marcusbager/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
+          "/usr/local/share/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -65,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.303/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

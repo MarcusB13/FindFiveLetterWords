@@ -10,15 +10,27 @@
 /Users/marcusbager/Desktop/Skole Privat/skole/Hf2/ObjProgrammering/5-letter-words/5-letter-words/obj/Release/net8.0/refint/5-letter-words.dll
 /Users/marcusbager/Desktop/Skole Privat/skole/Hf2/ObjProgrammering/5-letter-words/5-letter-words/obj/Release/net8.0/5-letter-words.genruntimeconfig.cache
 /Users/marcusbager/Desktop/Skole Privat/skole/Hf2/ObjProgrammering/5-letter-words/5-letter-words/obj/Release/net8.0/ref/5-letter-words.dll
-D:\5-letter-words\5-letter-words\bin\Release\net8.0\5-letter-words.exe
-D:\5-letter-words\5-letter-words\bin\Release\net8.0\5-letter-words.deps.json
-D:\5-letter-words\5-letter-words\bin\Release\net8.0\5-letter-words.runtimeconfig.json
-D:\5-letter-words\5-letter-words\bin\Release\net8.0\5-letter-words.dll
-D:\5-letter-words\5-letter-words\obj\Release\net8.0\5-letter-words.GeneratedMSBuildEditorConfig.editorconfig
-D:\5-letter-words\5-letter-words\obj\Release\net8.0\5-letter-words.AssemblyInfoInputs.cache
-D:\5-letter-words\5-letter-words\obj\Release\net8.0\5-letter-words.AssemblyInfo.cs
-D:\5-letter-words\5-letter-words\obj\Release\net8.0\5-letter-words.csproj.CoreCompileInputs.cache
-D:\5-letter-words\5-letter-words\obj\Release\net8.0\5-letter-words.dll
-D:\5-letter-words\5-letter-words\obj\Release\net8.0\refint\5-letter-words.dll
-D:\5-letter-words\5-letter-words\obj\Release\net8.0\5-letter-words.genruntimeconfig.cache
-D:\5-letter-words\5-letter-words\obj\Release\net8.0\ref\5-letter-words.dll
+D:/5-letter-words/5-letter-words/bin/Release/net8.0/5-letter-words.exe
+D:/5-letter-words/5-letter-words/bin/Release/net8.0/5-letter-words.deps.json
+D:/5-letter-words/5-letter-words/bin/Release/net8.0/5-letter-words.runtimeconfig.json
+D:/5-letter-words/5-letter-words/bin/Release/net8.0/5-letter-words.dll
+D:/5-letter-words/5-letter-words/obj/Release/net8.0/5-letter-words.GeneratedMSBuildEditorConfig.editorconfig
+D:/5-letter-words/5-letter-words/obj/Release/net8.0/5-letter-words.AssemblyInfoInputs.cache
+D:/5-letter-words/5-letter-words/obj/Release/net8.0/5-letter-words.AssemblyInfo.cs
+D:/5-letter-words/5-letter-words/obj/Release/net8.0/5-letter-words.csproj.CoreCompileInputs.cache
+D:/5-letter-words/5-letter-words/obj/Release/net8.0/5-letter-words.dll
+D:/5-letter-words/5-letter-words/obj/Release/net8.0/refint/5-letter-words.dll
+D:/5-letter-words/5-letter-words/obj/Release/net8.0/5-letter-words.genruntimeconfig.cache
+D:/5-letter-words/5-letter-words/obj/Release/net8.0/ref/5-letter-words.dll
+/Users/marcusbager/Desktop/Skole Privat/skole/Hf2/ObjProgrammering/5-letter-words/5-letter-words/Console/5-letter-words/bin/Release/net8.0/5-letter-words
+/Users/marcusbager/Desktop/Skole Privat/skole/Hf2/ObjProgrammering/5-letter-words/5-letter-words/Console/5-letter-words/bin/Release/net8.0/5-letter-words.deps.json
+/Users/marcusbager/Desktop/Skole Privat/skole/Hf2/ObjProgrammering/5-letter-words/5-letter-words/Console/5-letter-words/bin/Release/net8.0/5-letter-words.runtimeconfig.json
+/Users/marcusbager/Desktop/Skole Privat/skole/Hf2/ObjProgrammering/5-letter-words/5-letter-words/Console/5-letter-words/bin/Release/net8.0/5-letter-words.dll
+/Users/marcusbager/Desktop/Skole Privat/skole/Hf2/ObjProgrammering/5-letter-words/5-letter-words/Console/5-letter-words/obj/Release/net8.0/5-letter-words.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcusbager/Desktop/Skole Privat/skole/Hf2/ObjProgrammering/5-letter-words/5-letter-words/Console/5-letter-words/obj/Release/net8.0/5-letter-words.AssemblyInfoInputs.cache
+/Users/marcusbager/Desktop/Skole Privat/skole/Hf2/ObjProgrammering/5-letter-words/5-letter-words/Console/5-letter-words/obj/Release/net8.0/5-letter-words.AssemblyInfo.cs
+/Users/marcusbager/Desktop/Skole Privat/skole/Hf2/ObjProgrammering/5-letter-words/5-letter-words/Console/5-letter-words/obj/Release/net8.0/5-letter-words.csproj.CoreCompileInputs.cache
+/Users/marcusbager/Desktop/Skole Privat/skole/Hf2/ObjProgrammering/5-letter-words/5-letter-words/Console/5-letter-words/obj/Release/net8.0/5-letter-words.dll
+/Users/marcusbager/Desktop/Skole Privat/skole/Hf2/ObjProgrammering/5-letter-words/5-letter-words/Console/5-letter-words/obj/Release/net8.0/refint/5-letter-words.dll
+/Users/marcusbager/Desktop/Skole Privat/skole/Hf2/ObjProgrammering/5-letter-words/5-letter-words/Console/5-letter-words/obj/Release/net8.0/5-letter-words.genruntimeconfig.cache
+/Users/marcusbager/Desktop/Skole Privat/skole/Hf2/ObjProgrammering/5-letter-words/5-letter-words/Console/5-letter-words/obj/Release/net8.0/ref/5-letter-words.dll
